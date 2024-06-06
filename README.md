@@ -7,9 +7,11 @@
 
 ### 2. 머신러닝
 
-### 3. 딥러닝
+### 3. 크롤링
 
-### 4. 최종 프로젝트
+### 4. 딥러닝
+
+### 5. 최종 프로젝트
 
 ### 개발 환경
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
